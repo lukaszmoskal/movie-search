@@ -1,4 +1,4 @@
-# Catster
+# movieSearch
 
 > Search engine for [OMDb API](https://www.omdbapi.com)
 
@@ -17,7 +17,7 @@ I've made it as a task in recruitment process.
 ## Technologies
 
 - [React](https://reactjs.org/) - v17.0.1
-- [Styled Components](https://styled-components.com/)
+- [Styled Components](https://styled-components.com/) - v5.2.1
 
 ## Setup
 
