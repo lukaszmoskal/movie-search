@@ -12,7 +12,7 @@ I've made it as a task in recruitment process.
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/68230258/107572360-78ea3180-6bec-11eb-8d41-c24847267c81.jpg)
+![image](https://user-images.githubusercontent.com/68230258/107582106-56124a00-6bf9-11eb-8b08-5d63427bc2cc.jpg)
 
 ## Technologies
 
