@@ -10,6 +10,10 @@ I've made it as a task in recruitment process.
 
 - Browse movies from OMDb API by title
 
+## Demo
+
+You can try it here: [moviesearchdemo.netlify.app](https://moviesearchdemo.netlify.app)
+
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/68230258/107582106-56124a00-6bf9-11eb-8b08-5d63427bc2cc.jpg)
