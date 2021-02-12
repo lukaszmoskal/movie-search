@@ -12,7 +12,7 @@ I've made it as a task in recruitment process.
 
 ## Demo
 
-You can try it here: [moviesearchdemo.netlify.app](https://moviesearchdemo.netlify.app)
+You can try it here: [lukaszmoskal.github.io/movie-search](https://lukaszmoskal.github.io/movie-search/)
 
 ## Screenshot
 
